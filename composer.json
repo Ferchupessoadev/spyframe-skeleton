@@ -10,5 +10,7 @@
       "App\\": "app/",
       "config\\": "config/"
     }
-  }
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true
 }

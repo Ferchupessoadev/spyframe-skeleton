@@ -1,8 +1,14 @@
 # Spyframe skeleton. Simple mvc framework
 
-Run
+create a new project
 
 ```bash
-cd spyframe-skeleton
-php -S localhost:3000
+composer create-project ferchupessoadev/spyframe-project my-project
+```
+
+run the project
+
+```bash
+cd my-project
+php -S localhost:8000 -t public_html
 ```

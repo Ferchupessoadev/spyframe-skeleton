@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ca19820898442f8bdb5b7b7e957ba203",
+    "content-hash": "bcba76257ceffda58765928c7f69cef2",
     "packages": [
         {
             "name": "ferchupessoadev/spyframe",
@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Ferchupessoadev/Spyframe.git",
-                "reference": "c9592312c8180b98b76508cd8fda608a8b8ae210"
+                "reference": "3e49c29b80244e41f261d10518fc09577f744357"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Ferchupessoadev/Spyframe/zipball/c9592312c8180b98b76508cd8fda608a8b8ae210",
-                "reference": "c9592312c8180b98b76508cd8fda608a8b8ae210",
+                "url": "https://api.github.com/repos/Ferchupessoadev/Spyframe/zipball/3e49c29b80244e41f261d10518fc09577f744357",
+                "reference": "3e49c29b80244e41f261d10518fc09577f744357",
                 "shasum": ""
             },
             "require": {
@@ -49,7 +49,7 @@
                 "issues": "https://github.com/Ferchupessoadev/Spyframe/issues",
                 "source": "https://github.com/Ferchupessoadev/Spyframe/tree/main"
             },
-            "time": "2024-10-03T20:54:41+00:00"
+            "time": "2024-11-04T18:34:01+00:00"
         },
         {
             "name": "graham-campbell/result-type",
@@ -518,9 +518,9 @@
     "stability-flags": {
         "ferchupessoadev/spyframe": 20
     },
-    "prefer-stable": false,
+    "prefer-stable": true,
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": [],
-    "plugin-api-version": "2.6.0"
+    "plugin-api-version": "2.3.0"
 }

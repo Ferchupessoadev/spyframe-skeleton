@@ -4,26 +4,25 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "bcba76257ceffda58765928c7f69cef2",
+    "content-hash": "f313b67ce427c018e7f52baf1623e8e3",
     "packages": [
         {
             "name": "ferchupessoadev/spyframe",
-            "version": "dev-main",
+            "version": "v1.0.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Ferchupessoadev/Spyframe.git",
-                "reference": "3e49c29b80244e41f261d10518fc09577f744357"
+                "reference": "600134504a5122ec1ff2697aaf7c26a98257ea2b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Ferchupessoadev/Spyframe/zipball/3e49c29b80244e41f261d10518fc09577f744357",
-                "reference": "3e49c29b80244e41f261d10518fc09577f744357",
+                "url": "https://api.github.com/repos/Ferchupessoadev/Spyframe/zipball/600134504a5122ec1ff2697aaf7c26a98257ea2b",
+                "reference": "600134504a5122ec1ff2697aaf7c26a98257ea2b",
                 "shasum": ""
             },
             "require": {
                 "vlucas/phpdotenv": "^5.6"
             },
-            "default-branch": true,
             "type": "library",
             "autoload": {
                 "files": [
@@ -47,9 +46,9 @@
             "description": "A simple MVC framework with router",
             "support": {
                 "issues": "https://github.com/Ferchupessoadev/Spyframe/issues",
-                "source": "https://github.com/Ferchupessoadev/Spyframe/tree/main"
+                "source": "https://github.com/Ferchupessoadev/Spyframe/tree/v1.0.5"
             },
-            "time": "2024-11-04T18:34:01+00:00"
+            "time": "2025-02-02T10:01:53+00:00"
         },
         {
             "name": "graham-campbell/result-type",
@@ -214,8 +213,8 @@
             "type": "library",
             "extra": {
                 "thanks": {
-                    "name": "symfony/polyfill",
-                    "url": "https://github.com/symfony/polyfill"
+                    "url": "https://github.com/symfony/polyfill",
+                    "name": "symfony/polyfill"
                 }
             },
             "autoload": {
@@ -293,8 +292,8 @@
             "type": "library",
             "extra": {
                 "thanks": {
-                    "name": "symfony/polyfill",
-                    "url": "https://github.com/symfony/polyfill"
+                    "url": "https://github.com/symfony/polyfill",
+                    "name": "symfony/polyfill"
                 }
             },
             "autoload": {
@@ -367,8 +366,8 @@
             "type": "library",
             "extra": {
                 "thanks": {
-                    "name": "symfony/polyfill",
-                    "url": "https://github.com/symfony/polyfill"
+                    "url": "https://github.com/symfony/polyfill",
+                    "name": "symfony/polyfill"
                 }
             },
             "autoload": {
@@ -515,12 +514,10 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "ferchupessoadev/spyframe": 20
-    },
+    "stability-flags": {},
     "prefer-stable": true,
     "prefer-lowest": false,
-    "platform": [],
-    "platform-dev": [],
-    "plugin-api-version": "2.3.0"
+    "platform": {},
+    "platform-dev": {},
+    "plugin-api-version": "2.6.0"
 }

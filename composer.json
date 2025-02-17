@@ -3,7 +3,7 @@
   "description": "Spyframe Project Skeleton",
   "type": "project",
   "require": {
-    "ferchupessoadev/spyframe": "dev-main"
+    "ferchupessoadev/spyframe": "^1.0.5"
   },
   "autoload": {
     "psr-4": {
